@@ -1,3 +1,4 @@
+![logo](https://github.com/Dikachi-official/AirBnB_clone/assets/86185353/40521c73-a3f3-4481-afe6-96efdbc3a6e8)
 <h1>0x00. AirBnB clone - The console</h1>
 <h3>Description</h3>
 <p>This is a complete web application, integrating database storage, a back-end API, and front-end interfacing in a clone of AirBnB.
