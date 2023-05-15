@@ -167,5 +167,5 @@ update
 Usage: update <class> <id> <attribute name> "<attribute value>" or <class>.update(<id>, <attribute name>, <attribute value>) or <class>.update( <id>, <attribute dictionary>).
 Updates a class instance based on a given id with a given key/value attribute pair or dictionary of attribute pairs. If update is called with a single key/value attribute pair, only "simple" attributes can be updated (ie. not id, created_at, and updated_at). However, any attribute can be updated by providing a dictionary.
 
-Authors
-The project has been authored by individuals in AUTHORS
+<h3>Authors</h3>
+<p>The project has been authored by individuals in <strong><i>AUTHORS</i></strong></p>
