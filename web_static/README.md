@@ -5,7 +5,7 @@ This is the second step towards building a first full web application; AirBnB Cl
 </p>
 
 <h3>Table of contents</h3>
-Files	Description
+<strong>Files</strong>	<strong>Description</strong>
 Index Files	This folder contains all html files.
 Styles	This folder contains all css files.
 Images	Images for this project
